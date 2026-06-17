@@ -30,7 +30,6 @@ Things i want to learn:
            - Improving my coding skills
            | Skill | Level | Link |
            | --- | --- | --- |
-           | Github | Beginner |
-     https://github.com/kole16
+           | Github | Beginner | https://github.com/kole16 |
      > Never stop learning because technology keeps on changing.
            
