@@ -28,8 +28,9 @@ Things i want to learn:
            My goals include :
            - learning cybersecurity
            - Improving my coding skills
-           | Skilll | Level | Link |
+           | Skill | Level | Link |
            | --- | --- | --- |
-           | Github | Beginner | https://github.com/kole16
+           | Github | Beginner |
+     https://github.com/kole16
      > Never stop learning because technology keeps on changing.
            
