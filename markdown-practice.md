@@ -13,18 +13,18 @@ Things i want to learn:
      | tool | purpose | Link |
      | --- | --- | --- |
      | Github | Store and manage code | https://github.com |
-     | VS code | write and edit code |https://code.visualstudio.com
+     | VS code | write and edit code |https://code.visualstudio.com |
      - [x] Create a Github account
      - [x] Learn basic markdown
      - [ ] Learn python programming
      - [ ] Build my first project
-     ```python
+```python
 print("Hello, world!")
 ```
      > learning to code is a journey. Practice everyday and keep improving.
      
       I am **Collins**, a student in *technology* and 'programming'.
-           My goals include :
+           My goals include:
            - learning cybersecurity
            - Improving my coding skills
            | Skill | Level | Link |
