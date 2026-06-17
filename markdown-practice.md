@@ -23,6 +23,7 @@ Things i want to learn:
            print("hello" + name)
            '''
      > learning to code is a journey. Practice everyday and keep improving.
+     
      I am **Collins**, a student in *technology* and 'programming'.
            My goals include :
            - learning cybersecurity
