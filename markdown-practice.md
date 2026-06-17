@@ -18,13 +18,12 @@ Things i want to learn:
      - [x] Learn basic markdown
      - [ ] Learn python programming
      - [ ] Build my first project
-     '''python
-           name = "collins"
-           print("hello" + name)
-           '''
+     ```python
+print("Hello, world!")
+```
      > learning to code is a journey. Practice everyday and keep improving.
      
-     I am **Collins**, a student in *technology* and 'programming'.
+      I am **Collins**, a student in *technology* and 'programming'.
            My goals include :
            - learning cybersecurity
            - Improving my coding skills
