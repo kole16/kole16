@@ -26,10 +26,12 @@ print("Hello, world!")
      
 I am **Collins**, a student in *technology* and 'programming'.
            My goals include:
+           
            - learning cybersecurity
            - Improving my coding skills
-           | Skill | Level | Link |
-           | --- | --- | --- |
-           | Github | Beginner | https://github.com/kole16 |
+           
+  | Skill | Level | Link |
+  | --- | --- | --- |
+  | Github | Beginner | https://github.com/kole16 |
      > Never stop learning because technology keeps on changing.
            
