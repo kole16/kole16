@@ -24,7 +24,7 @@ print("Hello, world!")
 
 > learning to code is a journey. Practice everyday and keep improving.
      
-  I am **Collins**, a student in *technology* and 'programming'.
+I am **Collins**, a student in *technology* and 'programming'.
            My goals include:
            - learning cybersecurity
            - Improving my coding skills
